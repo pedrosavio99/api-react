@@ -1,0 +1,2 @@
+Caso tenha acabado de baixar os arquivos, é necessário baixar as dependências do projeto, 
+para instalar utilize o comando npm install, após isso tente rodar o projeto novamente com npm start. 
